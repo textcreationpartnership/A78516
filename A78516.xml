@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Challenor his confession and speech made upon the ladder before his execution on Wednesday the fifth of July 1643. in Corne-hill jnst [sic] against the Royall Exchange. It is this day ordered by the committee of the House of Commons in Parliament concerning printing, that the confession of Richard Challenor be printed by Peter Cole. July 5. 1643 John White.</title>
+            <author>Chaloner, Richard, d. 1643.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78516</idno>
+            <idno type="STC">Wing C1800</idno>
+            <idno type="STC">Thomason E59_7</idno>
+            <idno type="STC">ESTC R23239</idno>
+            <idno type="EEBO-CITATION">99871942</idno>
+            <idno type="PROQUEST">99871942</idno>
+            <idno type="VID">155283</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78516)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155283)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 10:E59[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Challenor his confession and speech made upon the ladder before his execution on Wednesday the fifth of July 1643. in Corne-hill jnst [sic] against the Royall Exchange. It is this day ordered by the committee of the House of Commons in Parliament concerning printing, that the confession of Richard Challenor be printed by Peter Cole. July 5. 1643 John White.</title>
+                  <author>Chaloner, Richard, d. 1643.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Peter Cole at the signe of the Glove and Lyon in Cornhill neare the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Chaloner was involved in Waller's plot.</note>
+                  <note>reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chaloner, Richard, d. 1643.</term>
+               <term>Waller, Edmund, 1606-1687 --  Early works to 1800.</term>
+               <term>Conspiracies --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155283:1"/>
+            <pb facs="tcp:155283:1" rendition="simple:additions"/>
+            <p>M<hi rend="sup">r.</hi> CHALLENOR HIS CONFESSION AND SPEECH MADE UPON THE <hi>LADDER</hi> BE<g ref="char:EOLhyphen"/>fore his <hi>Execution</hi> on <hi>Wedneſday</hi> the fifth of <hi>July</hi> 1643. in <hi>Corne-hill just againſt</hi> the Royall <hi>Exchange.</hi>
+            </p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>IT is this day Ordered by the Committee of the Houſe of Commons in Parliament concerning printing, that the Confeſsion of</hi> RICHARD CHAL<g ref="char:EOLhyphen"/>LENOR <hi>be printed by</hi> Peter Cole.</p>
+                  <closer>
+                     <dateline>
+                        <date>July 5. 1643.</date>
+                     </dateline>
+                     <signed>JOHN WHITE.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Peter Cole</hi> at the ſigne of the <hi>Glove</hi> and <hi>Lyo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> in <hi>Cornhil neare the Royall Exchange</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155283:2"/>
+            <pb n="1" facs="tcp:155283:2"/>
+            <head>Preſently after <hi>Mr. TOMKINS</hi> was Execu<g ref="char:EOLhyphen"/>ted about tenne of the clocke, <hi>Mr. CHAL<g ref="char:EOLhyphen"/>LENOR</hi> was carried from New-gate, accompa<g ref="char:EOLhyphen"/>nied with <hi>Mr.</hi> PETERS and ſome other Divines, and conducted by two Troopes of Horſe to <hi>Corn<g ref="char:EOLhyphen"/>hill,</hi> where a <hi>Gibbet</hi> was erected againſt the Royall Exchange, about which was a Guard con<g ref="char:EOLhyphen"/>ſiſting of two of the Trained Bands, when he came to the place of Execution, being upon the Ladder (after many Teares of hearty Contrition,) he ſpake as followeth.</head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T Hath pleaſed God to bring me to this place, God hath now re<g ref="char:EOLhyphen"/>turned my prayer upon me, my prayer was, that if this Deſigne might not bee Honourable to him, that it might be knowne. God hath heard me and it is diſcovered, that ſame very thing hath ſa<g ref="char:EOLhyphen"/>tisfied me, that I was in an errour; and that I am confident, I was in a great deale of fault; And I confeſſe I doe now die juſtly; and I pray God, that I may now glorifie the Lord;</p>
+            <p>I ſhall onely thus much declare to the world, that they may take off the aſperſion, that was laid upon my partner, and my wife, which neither of them did know of this De<g ref="char:EOLhyphen"/>ſigne: I have declared my conſcience free<g ref="char:EOLhyphen"/>ly
+<pb n="2" facs="tcp:155283:3"/>to God and the world in every particular that concernes the buſineſſe; thus much I ſhall ſay for my owne particular. There were three things laid to my charge which there was ſome miſtake in; Concerning the Kings Letter, whereas it was thought to be another way I thanke God, it was not that way. Then concerning the Seale, I had no hand in the procuring of it, nor knew not of it till the Friday.</p>
+            <p>There is another thing that is concerning the ſeizing of the Magazines, which I had no hand in neither. But I die juſtly, and I deſerve this puniſhment.</p>
+            <p>But now to you all that are here, let my example be to you, that you never take your ſelfe to any thing but what you have warrant for from the Lord; I had no war<g ref="char:EOLhyphen"/>rant I vow to Ged, that hath now ſatisfied me that the Lord I hope will forgive me, I have heartily repented, and I beſeech you all to take this as a warning.</p>
+            <p>And whereas there is now a great deale of diſtraction, and diviſion in the City; and that we now make difference, between Gods Miniſters, and Gods Miniſters deſpiſe no meanes, I acknowledge my fault; I did make fome difference, and I now acknowledge it; and deſire the Lord to forgive me, I have re<g ref="char:EOLhyphen"/>ceived more comfort from ſuch men, then ever I had before.</p>
+            <pb n="3" facs="tcp:155283:3"/>
+            <p>I ſhall not now have much to ſay, But I deſire heartily that the whole world would forgive me, I doe beg of my God, and of my Chriſt (who I have not honoured ſo much as I ſhould have done) that hee would have mercy upon me.</p>
+            <p>And now to you all I ſpeake, I doe now as freely forgive you, as I truſt my Saviour Je<g ref="char:EOLhyphen"/>ſus Chriſt, hath forgiven me. And ſo Lord Jeſus, into thy hands doe I commend my ſpi<g ref="char:EOLhyphen"/>rit, for thou haſt redeemed me O Lord God; and ſo the Lord take me, and the Lord re<g ref="char:EOLhyphen"/>ceive me.</p>
+            <div type="part">
+               <head>Then his Father tendred him the Kings pardon, Saying</head>
+               <p>Here is the Kings gracious pardon.</p>
+               <p>To which Mr. <hi>Challenor:</hi> replyed,</p>
+               <p>Sir, I beſeech you trouble me not with it.</p>
+               <p>Pray ſpeak to my friends to take care of my corps, and carry me home.</p>
+               <p>Whereupon Mr. <hi>Peters</hi> ſaid to him, You are now before the Lord of heaven, if you have any thing about the Lords, you ſpoke off ſo often laſt night, I beſeech you ſpeak your Conſcience.</p>
+               <p>Mr. <hi>Challenor</hi> anſwering thus, Gentlemen, It is the happieſt day that ever I had;</p>
+               <p>I ſhall now (Gentlemen) declare a little more of the occaſion of this, as I am deſired by
+<pb n="4" facs="tcp:155283:4"/>Mr. <hi>Peters,</hi> and to give him, and the world ſatisfaction.</p>
+               <p>It came from Mr. <hi>Waller</hi> under this notion, that if that we could make a moderate party here in <hi>London,</hi> to ſtand betwixt the gappe, and in the gappe, to unite the King and the Parliament, it would be a very acceptable work, for now the three Kingdomes lay a bleeding, and unleſſe that were done there was no hopes to unite them; withall I made this Reply. Sir, if I could aſſure you of three parts of <hi>London,</hi> none of them ſhould ſtirre, unleſſe we had the countenance of the Lords and Commons; To this he replyed, You ſhall have to countenance this buſineſſe the whole Houſe of Lords except three or four you ſhall have divers of the Houſe of Commons, wee were promiſed wee ſhould ſpeak with; theſe Lords; And in truth except wee had ſpoken with theſe Lords, nothing could have been done; for Mr. <hi>Abbot,</hi> Mr. <hi>Blinkehorne,</hi> Mr. <hi>Luntloe,</hi> Mr. <hi>King,</hi> and my ſelfe agreed that we would not ſtirre, till theſe Lords had declared themſelves and would be ingaged.</p>
+               <p>And now (Gentlemen I have another thing to declare, which ſhall be in the behalfe, of thoſe that are condemned; As Mr. <hi>Waller</hi> was the mouth from the Lords, as he did declare, ſo I was the unhappy inſtrument, from Mr. <hi>Waller</hi> to the reſt; the ſentence is now paſt, I
+<pb n="5" facs="tcp:155283:4" rendition="simple:additions"/>deſire if it might be, that it might be moved to the Houſe, that no more might ſuffer in the cauſe. This is all I have to ſay, and de<g ref="char:EOLhyphen"/>ſire your hearty prayers to God for me.</p>
+               <p>Then one Mr. <hi>Smart</hi> ſaid unto him, Mr. <hi>Chal<g ref="char:EOLhyphen"/>lenor,</hi> If you were to to live longer, would you ever have done the like againe</p>
+               <p>Mr. <hi>Challenor</hi> Anſwered, I am thus farre con<g ref="char:EOLhyphen"/>fident, that if it had pleaſed God to lend me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> life, I think I ſhould have run another courſe, and I am confident of it; I hope this is the happieſt day I ever ſaw, and I hope God is reconciled to me, in my Saviour Jeſus Chriſt; that hath given me repentance; and I am con<g ref="char:EOLhyphen"/>fident he will returne my prayer for me.</p>
+               <p>Then at his requeſt Mr. <hi>P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ters</hi> prayed very fervently and devoutly with him: after his prayer was ended, Mr. <hi>Challenor</hi> ſpake theſe words.</p>
+               <p>Gentlemen, I doe from my heart forgive you and all the world, deſiring you and all the world to forgive me alſo, and ſo I commend my ſoule into the hands of my God.</p>
+            </div>
+         </div>
+         <div type="order">
+            <pb n="6" facs="tcp:155283:5"/>
+            <p>
+               <hi>IT IS THIS DAY ORDERED BY THE COMMITTEE OF THE HOVSE OF COMMONS IN PARLIAMENT CONCERNG PRINTING, THAT THE CONFESSIONS OF</hi> RICHARD CHALLENOR <hi>BE PRIN<g ref="char:EOLhyphen"/>TED BY</hi> PETER COLE.</p>
+            <closer>
+               <dateline>
+                  <date>July 5. 1643.</date>
+               </dateline>
+               <signed>JOHN WHITE.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
